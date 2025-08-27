@@ -1,0 +1,31 @@
+.root {
+    -fx-background-color: #0d7cec;
+    -fx-font-family: "Segoe UI", sans-serif;
+}
+
+.button {
+    -fx-background-color: #71fa02;
+    -fx-text-fill: white;
+    -fx-padding: 8px 16px;
+    -fx-background-radius: 8px;
+    -fx-font-size: 14px;
+}
+
+.button:hover {
+    -fx-background-color: #ffed00;
+}
+
+.text-field {
+    -fx-background-color: white;
+    -fx-border-color: #d1d5db;
+    -fx-border-radius: 6px;
+    -fx-padding: 6px;
+    -fx-font-size: 14px;
+}
+
+.combo-box {
+    -fx-background-color: #ff0000;
+    -fx-border-color: #d1d5db;
+    -fx-border-radius: 6px;
+    -fx-padding: 6px;
+}
